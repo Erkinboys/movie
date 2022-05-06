@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/erkinboys.github.io/moviesite/static/css/main.4299ab72.css",
-    "main.js": "/erkinboys.github.io/moviesite/static/js/main.b074aac9.js",
-    "index.html": "/erkinboys.github.io/moviesite/index.html",
-    "main.4299ab72.css.map": "/erkinboys.github.io/moviesite/static/css/main.4299ab72.css.map",
-    "main.b074aac9.js.map": "/erkinboys.github.io/moviesite/static/js/main.b074aac9.js.map"
+    "main.css": "/Erkinboys.github.io/moviesite/static/css/main.4299ab72.css",
+    "main.js": "/Erkinboys.github.io/moviesite/static/js/main.b074aac9.js",
+    "index.html": "/Erkinboys.github.io/moviesite/index.html",
+    "main.4299ab72.css.map": "/Erkinboys.github.io/moviesite/static/css/main.4299ab72.css.map",
+    "main.b074aac9.js.map": "/Erkinboys.github.io/moviesite/static/js/main.b074aac9.js.map"
   },
   "entrypoints": [
     "static/css/main.4299ab72.css",
